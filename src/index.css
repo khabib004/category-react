@@ -1,0 +1,5 @@
+body {
+  height: 100vh;
+  background-color: #707ff2;
+  background-image: linear-gradient(to top, #705557, #c2aba5, #f5e3d1, #9cc4e0, #73a3c5, #2679a8);
+}
